@@ -1,4 +1,4 @@
-
+[![Build status](https://ci.appveyor.com/api/projects/status/4kpk21s8bcfnfjat?svg=true)](https://ci.appveyor.com/project/Dan4te/ajs02-classes)
 
 # Домашнее задание к лекции «Классы, наследование»
 
